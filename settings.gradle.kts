@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Clase7J"
+rootProject.name = "PMDM_2425_7J_Segunda_Evaluacion_Clase"
 include(":APIServiceDemo")
 include(":movieapp")
 include(":booksroomdemo")
